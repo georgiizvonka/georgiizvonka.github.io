@@ -35,11 +35,6 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        # Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots. 
-        # I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        # 
-        # Please reach out to collaborate 😃
-        # 
         My current research involves the application of alternative data and AI to decompose the established evidence of market ineffeciency to tell more about the reasons that stay behind it and to refine the corresponding trade strategies by eliminating the noize.
 
         Before I was studying the properties of monetary standard evolution in the context of Bitcoin and its blockchain.
