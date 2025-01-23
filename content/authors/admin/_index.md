@@ -194,6 +194,6 @@ languages:
 
 ## About Me
 
-# After writing my first independent piece of research on Bitcoin, I realized how 
+# I am a Ph.D. student that graduates in 2025 and seeks for quant or data science job. 
 
-I am a Ph.D. student that graduates in 2025 and seeks for quant or data science job. 
+<!-- I am a Ph.D. student that graduates in 2025 and seeks for quant or data science job.  -->
