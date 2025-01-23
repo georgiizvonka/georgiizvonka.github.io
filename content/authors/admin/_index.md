@@ -75,7 +75,7 @@ education:
   - area: M.A. Economics
     institution: New Economic School
     date_start: 2017-09-01
-    date_end: 2019-06-31
+    date_end: 2019-06-30
     # summary: |
     #   GPA: 3.8/4.0
 
@@ -86,7 +86,7 @@ education:
   - area: BSc Economics
     institution: Higher School of Economics
     date_start: 2013-09-01
-    date_end: 2017-06-31
+    date_end: 2017-06-30
     # summary: |
     #   GPA: 3.4/4.0
       
