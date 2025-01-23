@@ -194,6 +194,6 @@ languages:
 
 ## About Me
 
-I am a Ph.D. student that graduates in 2025 and seeks for quant or data science job. 
+I am a Ph.D. student graduating in 2025 and seeking a job in quantitative finance or data science.
 
 <!-- I am a Ph.D. student that graduates in 2025 and seeks for quant or data science job.  -->

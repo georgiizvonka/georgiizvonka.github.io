@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My current research involves the application of alternative data and AI to decompose the established evidence of market ineffeciency to tell more about the reasons that stay behind it and to refine the corresponding trade strategies by eliminating the noize.
+        My current research focuses on applying alternative data and AI to analyze established evidence of market inefficiency. The aim is to tell more about the reasons behind these inefficiencies and to refine corresponding trading strategies by minimizing noise.
 
-        Before I was studying the properties of monetary standard evolution in the context of Bitcoin and its blockchain.
+        Previously, I studied the evolution of monetary standards in the context of Bitcoin and its blockchain.
     design:
       columns: '1'
   # - block: collection
